@@ -1,0 +1,6 @@
+Các thư viện sử dụng để làm:
+- pillow
+- openCV
+- Scipy
+- Numpy
+- os 
